@@ -1,5 +1,5 @@
 
-![React Avançado](https://github.com/oliversieto/boilerplate/blob/main/public/img/logo-gh.svg)
+![React Boilerplate](https://github.com/oliversieto/boilerplate/blob/main/public/img/logo-gh.svg)
 
 This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React Avançado](https://reactavancado.com.br/).
 
